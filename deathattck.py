@@ -14,7 +14,7 @@ import os
 
 interface = subprocess.call("airmon-ng")
 print(interface)
-print("----------------[!]get the bissid and the ch num[!]------------------")
+#print("----------------[!]get the bissid and the ch num[!]------------------")
 BSSID = None
 ch = None
 
