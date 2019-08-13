@@ -5,7 +5,7 @@
 ## i used airmon-ng and airodump-ng and aireply-ng you can find more about them in###
 ###www.aircrack-ng.org/doku.php?id=airmon-ng###
 ###www.aircrack-ng.org/doku.php?id=airodump-ng###
-###https://www.aircrack-ng.org/doku.php?id=aireplay-ng###
+###www.aircrack-ng.org/doku.php?id=aireplay-ng###
 
 
 import subprocess
