@@ -1,5 +1,5 @@
 
 import subprocess
 
-print("[+] Starting Dumping [+]")
+print("[+] Start Dumping [+]")
 cap=subprocess.call(["airodump-ng","wlan0mon"])
